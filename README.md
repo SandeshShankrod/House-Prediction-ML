@@ -1,2 +1,2 @@
 # House-Prediction-ML
-This is my machine learning All Regression Algorithm model trained.
+This is my machine learning All 13 Algorithm with model trained.
